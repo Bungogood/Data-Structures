@@ -1,4 +1,4 @@
 # Data Structures
 
-javac \[Data-Structure\].java
+javac \[Data-Structure\].java  
 java main
